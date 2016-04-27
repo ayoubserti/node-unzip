@@ -8,6 +8,7 @@
 #include <fstream>
 #include <functional>
 #include <cstring>
+#include <unistd.h>
 
 #define dir_delimter '/'
 #define MAX_FILENAME 512
